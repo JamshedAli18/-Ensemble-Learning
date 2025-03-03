@@ -5,7 +5,7 @@ Welcome to the **Ensemble Learning Basics** repository! This project is designed
 ## Introduction
 
 This repository aims to help beginners understand the fundamentals of ensemble learning by exploring three key methods:
-- **Bagging (Bootstrap Aggregating)**
+- **Bagging (Bootstrap Aggregating)** 
 - **Boosting**
 - **Stacking**
 
